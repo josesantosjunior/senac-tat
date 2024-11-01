@@ -1,0 +1,1 @@
+Trabalhando com editor de texto VIM e salvando ao mesmo tempo
